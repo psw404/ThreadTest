@@ -1,0 +1,2 @@
+﻿单击按钮，新建Timer(mthod,methodParams,starttime,interval)-->DBHelper.Save()
+Timer.dispose(); AutoResetEvent;
